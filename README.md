@@ -6,8 +6,6 @@ Flutter plugin for photos browse.
 
 <img src="https://gitee.com/hongchenchen/test_photos_lib/raw/ff250fe8f51a4022c3edd5ac4fa3eda04089d281/gif/photo_browser.gif" width="360" height="640" alt="demo"/><br/>
 
-In your `pubspec.yaml` file within your Flutter Project:
-
 ```yaml
 dependencies:
   photo_browser: 1.0.0
