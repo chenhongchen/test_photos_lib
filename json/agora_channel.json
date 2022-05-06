@@ -1,28 +1,22 @@
-
 [
-        {
-          "name": "000",
-          "token":
-              "0063556a97b9abf44dab3aca1372eb4702cIAA6LWSBijx1pZFgo41hF20HFMw6UopsjPHa9Hn4P1LzL906tSIAAAAAEAAoVXS2wuB1YgEAAQDC4HVi",
-        },
-        {
-          "name": "111",
-          "token":
-              "0063556a97b9abf44dab3aca1372eb4702cIAChk0sFjYp0hiQpFTceQEZYJIWNk156+7cMYQOg/hvaTD1Ra00AAAAAEAAoVXS20+B1YgEAAQDT4HVi",
-        },
-        {
-          "name": "222",
-          "token":
-              "0063556a97b9abf44dab3aca1372eb4702cIAAsrvm9/wCSHidYVXCFzjM6lpBFOrXbzcoDKE1F0hKuUR3tCf0AAAAAEAAoVXS24+B1YgEAAQDi4HVi",
-        },
-        {
-          "name": "333",
-          "token":
-              "0063556a97b9abf44dab3aca1372eb4702cIACvm5hqoFOoQN01GIoqgYeDIl119YTpWGJTXcPyPgQaHP2G15IAAAAAEAAoVXS27+B1YgEAAQDv4HVi",
-        },
-        {
-          "name": "444",
-          "token":
-              "0063556a97b9abf44dab3aca1372eb4702cIADycEFGw8r4GDHBAcmrtA8SyXAyAjjyEFq7/ECTl142RRyTvUYAAAAAEAAoVXS2AOF1YgEAAQAA4XVi",
-        },
+    {
+        "name":"000",
+        "token":"0063556a97b9abf44dab3aca1372eb4702cIAA6LWSBijx1pZFgo41hF20HFMw6UopsjPHa9Hn4P1LzL906tSIAAAAAEAAoVXS2wuB1YgEAAQDC4HVi"
+    },
+    {
+        "name":"111",
+        "token":"0063556a97b9abf44dab3aca1372eb4702cIAChk0sFjYp0hiQpFTceQEZYJIWNk156+7cMYQOg/hvaTD1Ra00AAAAAEAAoVXS20+B1YgEAAQDT4HVi"
+    },
+    {
+        "name":"222",
+        "token":"0063556a97b9abf44dab3aca1372eb4702cIAAsrvm9/wCSHidYVXCFzjM6lpBFOrXbzcoDKE1F0hKuUR3tCf0AAAAAEAAoVXS24+B1YgEAAQDi4HVi"
+    },
+    {
+        "name":"333",
+        "token":"0063556a97b9abf44dab3aca1372eb4702cIACvm5hqoFOoQN01GIoqgYeDIl119YTpWGJTXcPyPgQaHP2G15IAAAAAEAAoVXS27+B1YgEAAQDv4HVi"
+    },
+    {
+        "name":"444",
+        "token":"0063556a97b9abf44dab3aca1372eb4702cIADycEFGw8r4GDHBAcmrtA8SyXAyAjjyEFq7/ECTl142RRyTvUYAAAAAEAAoVXS2AOF1YgEAAQAA4XVi"
+    }
 ]
