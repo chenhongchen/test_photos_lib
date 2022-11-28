@@ -1,0 +1,31 @@
+{
+  "list": [
+    {
+      "type": "home",
+      "label": "首页",
+      "norUrl": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_home_n.png",
+      "norW": 24,
+      "norH": 24,
+      "selUrl": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_home_s.json",
+      "selW": 44,
+      "selH": 44,
+    },
+    {
+      "type": "plus",
+      "label": "",
+      "norUrl": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_plus.png",
+      "norW": 48,
+      "norH": 48,
+    },
+    {
+      "type": "me",
+      "label": "我的",
+      "norUrl": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_me_n.png",
+      "norW": 24,
+      "norH": 24,
+      "selUrl": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_me_s.json",
+      "selW": 44,
+      "selH": 44,
+    },
+  ]
+}
