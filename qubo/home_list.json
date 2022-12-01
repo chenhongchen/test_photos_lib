@@ -1,0 +1,59 @@
+{
+  "list": [
+    {
+      "channelId": "000",
+      "rtcToken": "007eJxTYDDVteYWiLn69z9XhKf+N//99xT2z0j2jdW89PnYnYAzX+oVGMxSkixNLQxN0wySUk2M0pItjI1SDFKNjRPNjZJMk80Na2U6khsCGRk0jp9mZWSAQBCfmcHAwICBAQAyKh6/",
+      "rtmToken": "007eJxTYJhc+PFXX4XGnceC8bv35z1NOtTw60vEUwWFX6F6VbdvNKspMJilJFmaWhiaphkkpZoYpSVbGBulGKQaGyeaGyWZJpsbbpTpSG4IZGQIfhrPwMjABMSMDCA+M4OBgQEA2RkhAw==",
+      "status": "1",
+      "userName": "祈万事安好",
+      "watchNum": 37,
+      "desc": "第五届进博会 | 中国首秀一大波黑科技精品",
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/big_1.jpg",
+      "video": ""
+    },
+    {
+      "channelId": "111",
+      "rtcToken": "007eJxTYAhzU7ef7/5sz7Uu0xO6j08p8ZhNYHyoVlQS91W0fc8EMysFBrOUJEtTC0PTNIOkVBOjtGQLY6MUg1Rj40RzoyTTZHPDfpmO5IZARgbLq1NYGRkgEMRnZjA0NGRgAAC5yBzG",
+      "rtmToken": "007eJxTYHBdor3R858yzwFOndVXDqx72Z5zseqdT+DzHoVcrjNtHhUKDGYpSZamFoamaQZJqSZGackWxkYpBqnGxonmRkmmyeaG+2Q6khsCGRnmqNiwMDIwMTACIYjPzGBoaAgA9K0d7A==",
+      "status": "1",
+      "userName": "新尹锋",
+      "watchNum": 12351,
+      "desc": "好玩到起飞🔥！悉尼11月最强活动合集！",
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/big_2.jpg",
+      "video": ""
+    },
+    {
+      "channelId": "222",
+      "rtcToken": "007eJxTYFh3sXnS9dv1HTsmJcz8e9nhkVsKM5uk1WGHxsKakJVhflYKDGYpSZamFoamaQZJqSZGackWxkYpBqnGxonmRkmmyeaGC2Q6khsCGRn2ritmZGSAQBCfmcHIyIiBAQBgUh6Y",
+      "rtmToken": "007eJxTYFj/3Jf7QBZ/xXXfrfar5pw2yYl3lAz0ELALOqqxaklqd5YCg1lKkqWphaFpmkFSqolRWrKFsVGKQaqxcaK5UZJpsrnheZmO5IZARgb9fbnMjAxMDIxACOIzMxgZGQEAbGEcYQ==",
+      "status": "1",
+      "userName": "新尹锋",
+      "watchNum": 139,
+      "desc": "❤️信仰是精神的劳动；动物是没有信仰的信仰。",
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/big_3.jpg",
+      "video": ""
+    },
+    {
+      "channelId": "333",
+      "rtcToken": "007eJxTYHDYH3l+VTPHxAlnRJJT7hRzJi53+H1pcgp39Inbk/5XXBRUYDBLSbI0tTA0TTNISjUxSku2MDZKMUg1Nk40N0oyTTY3/CXTkdwQyMiwZboYEyMDBIL4zAzGxsYMDABoLB8h",
+      "rtmToken": "007eJxTYDi/9rHGi1WPpSYq75FJ1Raz6VwzqbZM5KXSHrkHDjIOf2crMJilJFmaWhiaphkkpZoYpSVbGBulGKQaGyeaGyWZJpsbist2JDcEMjJsvubGwsjAxMAIhCA+M4OxsTEA0EMdfw==",
+      "status": "2",
+      "userName": "那个谁",
+      "watchNum": 7890,
+      "desc": "最强大脑，是那个谁",
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/big_4.jpg",
+      "video": ""
+    },
+    {
+      "channelId": "444",
+      "rtcToken": "007eJxTYEg/YtnH9oK5bdGaT9VchU+1v1qoLj50cgP/Zl6TDl/NTB0FBrOUJEtTC0PTNIOkVBOjtGQLY6MUg1Rj40RzoyTTZHNDNtmO5IZARoYD3PyMjAwQCOIzM5iYmDAwAACymhui",
+      "rtmToken": "007eJxTYFhr/6D36yvmGVmtu9ekrN6epHWjU1zywokd8kWpGscM315RYDBLSbI0tTA0TTNISjUxSku2MDZKMUg1Nk40N0oyTTY3VJbtSG4IZGSY8+0SEyMDEwMjEIL4zAwmJiYAbxcgCA==",
+      "status": "0",
+      "userName": "rainbow",
+      "watchNum": 2468,
+      "desc": "吝啬鬼锅里的肉永远熟不了——维吾尔族",
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/big_5.jpg",
+      "video": ""
+    }
+  ]
+}
