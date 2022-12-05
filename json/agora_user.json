@@ -4,31 +4,36 @@
       "uid": "1000",
       "name": "user000",
       "token": "007eJxTYHhnxzbfkvljb5Z2aIyhxNTcX5+9JnNJemev19Nc9FiTdYICg1lKkqWphaFpmkFSqolRWrKFsVGKQaqxcaK5UZJpsrmhikNvckMgI8PuB0VMjAxMDIxACOKzMBgaGBgAADiDG9Y=",
-      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_1.jpg"
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_1.jpg",
+      "gender": "1"
     },
     {
       "uid": "1001",
       "name": "user001",
       "token": "007eJxTYPjJ67C9Noznz34/XYkrQU3f1u1mdtxucOvJl71bTv5UNY9XYDBLSbI0tTA0TTNISjUxSku2MDZKMUg1Nk40N0oyTTY3tHHoTW4IZGTgn8LNwMjABMSMDCA+C4OhgYEhAEw/HoI=",
-      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_2.jpg"
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_2.jpg",
+      "gender": "2"
     },
     {
       "uid": "1002",
       "name": "user002",
       "token": "007eJxTYGCreLpRaq6jtL64uRzLlqRZnSKN82fv37SgmPn2z1nlP78qMJilJFmaWhiaphkkpZoYpSVbGBulGKQaGyeaGyWZJpsb+jn0JjcEMjIcMqxhZWRgYmAEQhCfhcHQwMAIAK9nHYc=",
-      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_3.jpg"
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_3.jpg",
+      "gender": "1"
     },
     {
       "uid": "1003",
       "name": "user003",
       "token": "007eJxTYNBN3jL5qxhL0uoT7VKV1sKP3Zq60qedsvq7a8Y6Y0GbmscKDGYpSZamFoamaQZJqSZGackWxkYpBqnGxonmRkmmyeaG8Q69yQ2BjAwCsQyMjAxMDIxACOKzMBgaGBgDAMBeHKA=",
-      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_4.jpg"
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_4.jpg",
+      "gender": "2"
     },
     {
       "uid": "1004",
       "name": "user004",
       "token": "007eJxTYKgs4rOY5ekxh+ud/Y6SaIls7quTZ2lcLDJjjbDzcLvwLkaBwSwlydLUwtA0zSAp1cQoLdnC2CjFINXYONHcKMk02dww36E3uSGQkSHdP5qZkYGJgREIQXwWBkMDAxMAK/4bTA==",
-      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_5.jpg"
+      "photo": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/pic/thum_5.jpg",
+      "gender": "0"
     }
   ]
 }
