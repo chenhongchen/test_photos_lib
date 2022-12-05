@@ -2,8 +2,8 @@
   "list": [
     {
       "channelId": "000",
-      "rtcToken": "007eJxTYDDVteYWiLn69z9XhKf+N//99xT2z0j2jdW89PnYnYAzX+oVGMxSkixNLQxN0wySUk2M0pItjI1SDFKNjRPNjZJMk80Na2U6khsCGRk0jp9mZWSAQBCfmcHAwICBAQAyKh6/",
-      "rtmToken": "007eJxTYJhc+PFXX4XGnceC8bv35z1NOtTw60vEUwWFX6F6VbdvNKspMJilJFmaWhiaphkkpZoYpSVbGBulGKQaGyeaGyWZJpsbbpTpSG4IZGQIfhrPwMjABMSMDCA+M4OBgQEA2RkhAw==",
+      "rtcToken": "007eJxTYJA3T1HhXspXI6m+OTDi2soLhpbT4/iXfVjNq8+dmaX5OUWBwSwlydLUwtA0zSAp1cQoLdnC2CjFINXYONHcKMk02dzwhl1vckMgI4N0pSsLIwMEgvjMDAYGBgwMAP7pGmc=",
+      "rtmToken": "",
       "status": "1",
       "userName": "祈万事安好",
       "watchNum": 37,
@@ -14,8 +14,8 @@
     },
     {
       "channelId": "111",
-      "rtcToken": "007eJxTYAhzU7ef7/5sz7Uu0xO6j08p8ZhNYHyoVlQS91W0fc8EMysFBrOUJEtTC0PTNIOkVBOjtGQLY6MUg1Rj40RzoyTTZHPDfpmO5IZARgbLq1NYGRkgEMRnZjA0NGRgAAC5yBzG",
-      "rtmToken": "007eJxTYHBdor3R858yzwFOndVXDqx72Z5zseqdT+DzHoVcrjNtHhUKDGYpSZamFoamaQZJqSZGackWxkYpBqnGxonmRkmmyeaG+2Q6khsCGRnmqNiwMDIwMTACIYjPzGBoaAgA9K0d7A==",
+      "rtcToken": "007eJxTYDBLn/Dr4LEq+Tw7XbUdnef+Fe4zOKqyR/jttaqVRYHGoY8UGMxSkixNLQxN0wySUk2M0pItjI1SDFKNjRPNjZJMk80N39r1JjcEMjLEqJmxMjJAIIjPzGBoaMjAAABjnB6Q",
+      "rtmToken": "",
       "status": "1",
       "userName": "新尹锋",
       "watchNum": 12351,
@@ -27,7 +27,7 @@
     {
       "channelId": "222",
       "rtcToken": "007eJxTYFh3sXnS9dv1HTsmJcz8e9nhkVsKM5uk1WGHxsKakJVhflYKDGYpSZamFoamaQZJqSZGackWxkYpBqnGxonmRkmmyeaGC2Q6khsCGRn2ritmZGSAQBCfmcHIyIiBAQBgUh6Y",
-      "rtmToken": "007eJxTYFj/3Jf7QBZ/xXXfrfar5pw2yYl3lAz0ELALOqqxaklqd5YCg1lKkqWphaFpmkFSqolRWrKFsVGKQaqxcaK5UZJpsrnheZmO5IZARgb9fbnMjAxMDIxACOIzMxgZGQEAbGEcYQ==",
+      "rtmToken": "007eJxTYNgtGXD8446JxdOMJC7lSLpZKJvMzTh/lUVSbu+8uLtHzvxSYDBLSbI0tTA0TTNISjUxSku2MDZKMUg1Nk40N0oyTTY3/GvXm9wQyMjgyjOFlZEBAkF8ZgYjIyMGBgAa0x37",
       "status": "1",
       "userName": "新尹锋",
       "watchNum": 139,
@@ -39,7 +39,7 @@
     {
       "channelId": "333",
       "rtcToken": "007eJxTYHDYH3l+VTPHxAlnRJJT7hRzJi53+H1pcgp39Inbk/5XXBRUYDBLSbI0tTA0TTNISjUxSku2MDZKMUg1Nk40N0oyTTY3/CXTkdwQyMiwZboYEyMDBIL4zAzGxsYMDABoLB8h",
-      "rtmToken": "007eJxTYDi/9rHGi1WPpSYq75FJ1Raz6VwzqbZM5KXSHrkHDjIOf2crMJilJFmaWhiaphkkpZoYpSVbGBulGKQaGyeaGyWZJpsbist2JDcEMjJsvubGwsjAxMAIhCA+M4OxsTEA0EMdfw==",
+      "rtmToken": "007eJxTYGCUjvA0e3BJc/Gui+0+2xi3rWB0sCvgmDxZ65gnz+OjWm8VGMxSkixNLQxN0wySUk2M0pItjI1SDFKNjRPNjZJMk80Nue17kxsCGRmSdm5iZGSAQBCfmcHY2JiBAQCMCxxO",
       "status": "2",
       "userName": "那个谁",
       "watchNum": 7890,
@@ -51,7 +51,7 @@
     {
       "channelId": "444",
       "rtcToken": "007eJxTYEg/YtnH9oK5bdGaT9VchU+1v1qoLj50cgP/Zl6TDl/NTB0FBrOUJEtTC0PTNIOkVBOjtGQLY6MUg1Rj40RzoyTTZHNDNtmO5IZARoYD3PyMjAwQCOIzM5iYmDAwAACymhui",
-      "rtmToken": "007eJxTYFhr/6D36yvmGVmtu9ekrN6epHWjU1zywokd8kWpGscM315RYDBLSbI0tTA0TTNISjUxSku2MDZKMUg1Nk40N0oyTTY3VJbtSG4IZGSY8+0SEyMDEwMjEIL4zAwmJiYAbxcgCA==",
+      "rtmToken": "007eJxTYOBa573iKHvlnqzbUzmKWDW2dc1oM50x+fJXEfeix5nexg0KDGYpSZamFoamaQZJqSZGackWxkYpBqnGxonmRkmmyeaGkva9yQ2BjAwnlxuxMjJAIIjPzGBiYsLAAADToBz9",
       "status": "0",
       "userName": "rainbow",
       "watchNum": 2468,
