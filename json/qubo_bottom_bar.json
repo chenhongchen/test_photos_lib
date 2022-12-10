@@ -1,31 +1,31 @@
 {
   "list": [
     {
-      "type": "home",
-      "label": "首页",
+      "tag_name": "home",
+      "tab_name": "首页",
       "iconPath": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_home_n.png",
-      "norW": 24,
-      "norH": 24,
+      "norW": 72,
+      "norH": 72,
       "selectedIconPath": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_home_s.json",
-      "selW": 44,
-      "selH": 44
+      "selW": 132,
+      "selH": 132
     },
     {
-      "type": "plus",
-      "label": "",
+      "tag_name": "live",
+      "tab_name": "",
       "iconPath": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_plus.png",
-      "norW": 48,
-      "norH": 48
+      "norW": 144,
+      "norH": 144
     },
     {
-      "type": "me",
-      "label": "我的",
+      "tag_name": "my",
+      "tab_name": "我的",
       "iconPath": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_me_n.png",
-      "norW": 24,
-      "norH": 24,
+      "norW": 72,
+      "norH": 72,
       "selectedIconPath": "https://gitee.com/hongchenchen/test_photos_lib/raw/master/qubo/bot_icon_me_s.json",
-      "selW": 44,
-      "selH": 44
+      "selW": 132,
+      "selH": 132
     }
   ]
 }
